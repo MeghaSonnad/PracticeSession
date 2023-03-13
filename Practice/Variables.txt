@@ -1,0 +1,4 @@
+Variables are not declared 
+1. variable name cannot start with number
+2. variable name can not have Special char except _
+2. Variablename never start with uppercase.
