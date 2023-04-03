@@ -1,0 +1,8 @@
+if <condition>:
+This will execute only if condition is True:
+
+elif <condition>:
+This will execute when if condition is False.
+
+else:
+This will run all time regardless with condition of if 	
